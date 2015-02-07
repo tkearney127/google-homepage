@@ -1,2 +1,3 @@
 # google-homepage
-Odin Project HTML Exercise
+Odin Project HTML/CSS Exercise
+Project Address: http://www.theodinproject.com/web-development-101/html-css
